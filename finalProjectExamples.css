@@ -1676,3 +1676,8 @@
     opacity: 1;
     pointer-events: auto
 }
+
+/* Adds a dark-ish blue background */
+a.focusStyle:focus {
+  background-color: #22518f;
+}

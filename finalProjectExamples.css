@@ -1677,6 +1677,14 @@
     pointer-events: auto
 }
 
+a {
+  float: left;
+  clear: both;
+  margin-bottom: 1rem;
+  text-decoration: none;
+  color: #000000;
+}
+
 /* Adds a dark-ish blue background */
 a.focusStyle:focus {
   background-color: #22518f !important;

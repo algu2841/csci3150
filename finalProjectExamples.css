@@ -1678,6 +1678,6 @@
 }
 
 /* Adds a light blue background */
-.focusStyle:focus {
+a:focus {
   background: lightblue;
 }

@@ -1677,7 +1677,7 @@
     pointer-events: auto
 }
 
-/* Adds a dark-ish blue background */
+/* Adds a light blue background */
 .focusStyle:focus {
-  background: #22518f !important;
+  background: lightblue;
 }

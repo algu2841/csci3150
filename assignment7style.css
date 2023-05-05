@@ -1,0 +1,28 @@
+h1, h2 {
+  color: darkolivegreen;
+}
+
+p {
+  color: goldenrod;
+}
+
+ul {
+    border: 8px solid blue;
+}
+  
+ol {
+    border: 8px solid magenta;
+}
+  
+ol, ul {
+    padding: 5px 20px;
+    border-radius: 1px;
+}
+
+h1, strong {
+    color: darkolivegreen;
+}
+  
+em {
+    color: gray;
+}  
